@@ -1,0 +1,3 @@
+José;25
+Renan;18
+Maria;50
